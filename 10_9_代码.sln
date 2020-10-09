@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_9_代码", "10_9_代码\10_9_代码.csproj", "{FA52CD6B-F7DB-442F-B006-8D13C39228D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_委托是方法的类型", "10_9_代码\00_委托是方法的类型.csproj", "{FA52CD6B-F7DB-442F-B006-8D13C39228D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_委托的调用", "01_委托的调用\01_委托的调用.csproj", "{E61A56B7-99C3-4C6F-BBDF-EEAFEA630973}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FA52CD6B-F7DB-442F-B006-8D13C39228D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA52CD6B-F7DB-442F-B006-8D13C39228D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA52CD6B-F7DB-442F-B006-8D13C39228D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E61A56B7-99C3-4C6F-BBDF-EEAFEA630973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61A56B7-99C3-4C6F-BBDF-EEAFEA630973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61A56B7-99C3-4C6F-BBDF-EEAFEA630973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61A56B7-99C3-4C6F-BBDF-EEAFEA630973}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
