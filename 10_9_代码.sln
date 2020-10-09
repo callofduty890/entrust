@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_委托的调用", "01_�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_委托实现节约代码", "02_委托实现节约代码\02_委托实现节约代码.csproj", "{29A1A17A-B0C0-4F7D-B543-C61CA8EFE292}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_组合委托", "03_组合委托\03_组合委托.csproj", "{4177DCAF-45F0-41D6-A16E-9132171A3A3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{29A1A17A-B0C0-4F7D-B543-C61CA8EFE292}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29A1A17A-B0C0-4F7D-B543-C61CA8EFE292}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29A1A17A-B0C0-4F7D-B543-C61CA8EFE292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4177DCAF-45F0-41D6-A16E-9132171A3A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4177DCAF-45F0-41D6-A16E-9132171A3A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4177DCAF-45F0-41D6-A16E-9132171A3A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4177DCAF-45F0-41D6-A16E-9132171A3A3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
