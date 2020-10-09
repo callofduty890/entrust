@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_委托是方法的类型
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_委托的调用", "01_委托的调用\01_委托的调用.csproj", "{E61A56B7-99C3-4C6F-BBDF-EEAFEA630973}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_委托实现节约代码", "02_委托实现节约代码\02_委托实现节约代码.csproj", "{29A1A17A-B0C0-4F7D-B543-C61CA8EFE292}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E61A56B7-99C3-4C6F-BBDF-EEAFEA630973}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E61A56B7-99C3-4C6F-BBDF-EEAFEA630973}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E61A56B7-99C3-4C6F-BBDF-EEAFEA630973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29A1A17A-B0C0-4F7D-B543-C61CA8EFE292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A1A17A-B0C0-4F7D-B543-C61CA8EFE292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A1A17A-B0C0-4F7D-B543-C61CA8EFE292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A1A17A-B0C0-4F7D-B543-C61CA8EFE292}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
